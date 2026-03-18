@@ -1,9 +1,3 @@
-/**
- * OOPSBannerApp UC6 - OOPS Banner Application (Use Case 6)
- * This version uses a modular approach with dedicated methods for each letter.
- * * @author Developer
- * @version 6.0
- */
 public class UC6 {
 
     public static void main(String[] args) {
